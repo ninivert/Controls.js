@@ -1,7 +1,7 @@
 # owo what's this ?
 
 A JavaScript library to allow animators to easily create and interact with user-based inputs on the page.\
-Here is a [live example]() of what that might look like.\
+Here is a [live example](https://ninivert.github.io/Controls.js/) of what that might look like.\
 
 Features:
 
@@ -84,7 +84,7 @@ const globalCallback = function() {
 
 ## `DOMNames` object (optional)
 
-Names used for the generation of the inputs, labels and wrappers. Have a look at the [live example]() to see how it affects the generated HTML. Default is:
+Names used for the generation of the inputs, labels and wrappers. Have a look at the [live example](https://ninivert.github.io/Controls.js/) to see how it affects the generated HTML. Default is:
 
 ```javascript
 {
