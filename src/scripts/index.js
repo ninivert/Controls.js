@@ -65,7 +65,7 @@ const controls = new DOMControls({
 	"file": {
 		type: "file",
 		value: "",
-		label: "Upload an image file",
+		label: "Upload an image file that will be appended a the end of the document",
 		callback: function(e) {
 			const img = new Image();
 			img.src = e.target.result;
