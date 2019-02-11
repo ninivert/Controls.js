@@ -172,7 +172,7 @@ Here the `showValue` option is very useful for the user.
 
 `text`, `email`, `password`, `tel`, `search`, `url` all are text-based inputs
 
-```
+```javascript
 "soo": {
 	type: "text",
 	value: "hello world",
